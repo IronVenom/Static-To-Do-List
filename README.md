@@ -3,5 +3,5 @@ Static To-Do List
 
 
 
-<img src="https://imgur.com/xEbfVtX" width="200px">
+<img src="demoGIF.gif?raw=true" width="200px">
 
