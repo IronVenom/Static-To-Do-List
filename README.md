@@ -2,3 +2,5 @@
 Static To-Do List
 
 
+![Demonstration](demo.gif)
+
