@@ -2,5 +2,6 @@
 Static To-Do List
 
 
-![Demonstration](demo.gif)
+
+<img src="https://imgur.com/xEbfVtX?raw=true" width="200px">
 
